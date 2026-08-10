@@ -1,0 +1,4 @@
+Computer Networks Laboratory
+Socket programming in Python
+TCP is reliable and connection oriented
+UDP is fast and connectionless

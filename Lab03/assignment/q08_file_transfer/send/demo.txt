@@ -1,0 +1,7 @@
+This file is transferred from the client to the server over TCP.
+
+The transfer uses a length-prefixed protocol so the receiver knows exactly how
+many bytes to expect, which is what makes it safe for files of any size.
+
+Line four.
+Line five.
