@@ -1,0 +1,48 @@
+Reliable data transfer over UDP.
+
+UDP gives no delivery guarantee, so reliability must be built on top of it:
+sequence numbers identify each packet, acknowledgments confirm arrival, a timeout
+detects loss, and retransmission repairs it.
+
+This file is deliberately longer than one 1024-byte chunk so that the transfer
+splits into several packets and the stop-and-wait loop is easy to observe.
+line 001: padding to make the payload span several packets
+line 002: padding to make the payload span several packets
+line 003: padding to make the payload span several packets
+line 004: padding to make the payload span several packets
+line 005: padding to make the payload span several packets
+line 006: padding to make the payload span several packets
+line 007: padding to make the payload span several packets
+line 008: padding to make the payload span several packets
+line 009: padding to make the payload span several packets
+line 010: padding to make the payload span several packets
+line 011: padding to make the payload span several packets
+line 012: padding to make the payload span several packets
+line 013: padding to make the payload span several packets
+line 014: padding to make the payload span several packets
+line 015: padding to make the payload span several packets
+line 016: padding to make the payload span several packets
+line 017: padding to make the payload span several packets
+line 018: padding to make the payload span several packets
+line 019: padding to make the payload span several packets
+line 020: padding to make the payload span several packets
+line 021: padding to make the payload span several packets
+line 022: padding to make the payload span several packets
+line 023: padding to make the payload span several packets
+line 024: padding to make the payload span several packets
+line 025: padding to make the payload span several packets
+line 026: padding to make the payload span several packets
+line 027: padding to make the payload span several packets
+line 028: padding to make the payload span several packets
+line 029: padding to make the payload span several packets
+line 030: padding to make the payload span several packets
+line 031: padding to make the payload span several packets
+line 032: padding to make the payload span several packets
+line 033: padding to make the payload span several packets
+line 034: padding to make the payload span several packets
+line 035: padding to make the payload span several packets
+line 036: padding to make the payload span several packets
+line 037: padding to make the payload span several packets
+line 038: padding to make the payload span several packets
+line 039: padding to make the payload span several packets
+line 040: padding to make the payload span several packets

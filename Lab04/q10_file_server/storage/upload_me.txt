@@ -1,0 +1,2 @@
+Sample file for the distributed file server.
+Upload it, list the store, then download it back.

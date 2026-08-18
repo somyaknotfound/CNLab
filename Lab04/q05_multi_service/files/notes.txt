@@ -1,0 +1,2 @@
+Served by the FILE service of the multi-service server.
+One connection, several different request types.

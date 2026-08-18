@@ -1,0 +1,7 @@
+[
+  {"q": "Which protocol is connection-oriented?", "options": ["UDP", "TCP", "IP", "ICMP"], "answer": 2},
+  {"q": "Which function makes a TCP socket passive?", "options": ["bind()", "connect()", "listen()", "recv()"], "answer": 3},
+  {"q": "What does recv() returning an empty bytes object mean?", "options": ["Timeout", "Peer closed the connection", "Buffer full", "Checksum error"], "answer": 2},
+  {"q": "Which socket type is used for UDP?", "options": ["SOCK_STREAM", "SOCK_RAW", "SOCK_DGRAM", "SOCK_SEQPACKET"], "answer": 3},
+  {"q": "Which call returns the sender's address in UDP?", "options": ["accept()", "recvfrom()", "getsockname()", "listen()"], "answer": 2}
+]
